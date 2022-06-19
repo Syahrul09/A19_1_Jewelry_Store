@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160713588551",
+    "project_id": "project-jewerly",
+    "storage_bucket": "project-jewerly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160713588551:android:a3c51b00d1caef7e64d662",
+        "android_client_info": {
+          "package_name": "com.kelompokA1.project_jewerly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160713588551-lt0f035k74stcnooides52sl960mqjtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJqTZg0o8z2Z5IM7rOTpzmex_cq9Wdew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160713588551-lt0f035k74stcnooides52sl960mqjtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
